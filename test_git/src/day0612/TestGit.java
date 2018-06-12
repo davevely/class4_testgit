@@ -7,6 +7,8 @@ public class TestGit {
 		int i = 28;
 		System.out.println("i="+i);
 		System.out.println("-----------------------------------------------");
+		String msg="킹우현의 지적질 감사";
+		System.out.println(msg);
 	}
 
 }
